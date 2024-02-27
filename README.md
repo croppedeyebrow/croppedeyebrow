@@ -1,5 +1,5 @@
 
-[![header](https://capsule-render.vercel.app/api?type=venom&text=Hi-Croppedeyebrow-CDC&fontColor=ffffff)](https://capsule-render.vercel.app/api?type=venom&text=Hi-Croppedeyebrow-CDC&fontColor=ffffff&fontSize=10
+[![header](https://capsule-render.vercel.app/api?type=venom&text=Hi-Croppedeyebrow-CDC&fontColor=222222)](https://capsule-render.vercel.app/api?type=venom&text=Hi-Croppedeyebrow-CDC&fontColor=ffffff&fontSize=10
 )
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcroppedeyebrow&count_bg=%2379C83D&title_bg=%23D7D6D6&icon=github.svg&icon_color=%23811ABE&title=CDC-GITHUB&edge_flat=false)](https://hits.seeyoufarm.com)
