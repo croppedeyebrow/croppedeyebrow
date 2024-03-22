@@ -15,12 +15,17 @@
 
  
   
-[깃헙 페이지 배포 홈페이지]<https://croppedeyebrow.github.io/Portfoliopage/>
-[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=cut-eyebrow&theme=default)](https://cut-eyebrow.tistory.com/) 
+[깃헙 페이지 배포 홈페이지]
+<https://croppedeyebrow.github.io/Portfoliopage/>
+
+
+
+
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lee940706)](https://solved.ac/lee940706/)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=croppedeyebrow&layout=compact)
+
 
 
 ----------------------------------------------------------------------------------------------------------------
