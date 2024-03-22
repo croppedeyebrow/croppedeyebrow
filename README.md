@@ -24,7 +24,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lee940706)](https://solved.ac/lee940706/)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=croppedeyebrow&layout=compact)
+
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
