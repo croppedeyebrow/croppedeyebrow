@@ -12,7 +12,7 @@
 ## 💻 DEV's log 💻
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcroppedeyebrow&count_bg=%2379C83D&title_bg=%23D7D6D6&icon=github.svg&icon_color=%23811ABE&title=CDC-GITHUB&edge_flat=false)](https://hits.seeyoufarm.com)
 
-[![JAESUNG's GitHub stats](https://github-readme-stats.vercel.app/api?username=croppedeyebrow&include_all_commits=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/croppedeyebrow/github-readme-stats)
+
  
   
 [깃헙 페이지 배포 홈페이지]
