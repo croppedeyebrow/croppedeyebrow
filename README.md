@@ -15,8 +15,8 @@
 
  
   
-[깃헙 페이지 배포 홈페이지]
-<https://croppedeyebrow.github.io/Portfoliopage/>
+[홈페이지]
+<https://cdcportfolio.netlify.app/>
 
 
 
