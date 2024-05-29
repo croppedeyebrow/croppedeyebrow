@@ -16,7 +16,7 @@
  
   
 [홈페이지]
-<https://cdcportfolio.netlify.app/>
+<https://cdc-next-portfolio.pages.dev/>
 
 
 
