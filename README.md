@@ -56,13 +56,13 @@
 
 
   #### Backend 
-
-
+   ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF.svg?&style=for-the-badge&logo=Kotlin&logoColor=white)
+   ![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F.svg?&style=for-the-badge&logo=SpringBoot&logoColor=white)
 
   #### Mobile : Android
   ![Android](https://img.shields.io/badge/Android-3DDC84.svg?&style=for-the-badge&logo=Android&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF.svg?&style=for-the-badge&logo=Kotlin&logoColor=white) 
   ![Expo](https://img.shields.io/badge/Expo-000020.svg?&style=for-the-badge&logo=Expo&logoColor=white) 
-  ![Flutter](https://img.shields.io/badge/Flutter-02569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white) ![ReactNative](https://img.shields.io/badge/ReactNative-61DAFB.svg?&style=for-the-badge&logo=ReactNative&logoColor=white)
+  ![ReactNative](https://img.shields.io/badge/ReactNative-61DAFB.svg?&style=for-the-badge&logo=ReactNative&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-02569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white)
 
 
 
