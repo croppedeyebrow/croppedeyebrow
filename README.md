@@ -53,16 +53,15 @@
 
   #### DataBase
    ![Mysql](https://img.shields.io/badge/mysql-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white)
-
    ![Mariadb](https://img.shields.io/badge/mariadb-003545.svg?&style=for-the-badge&logo=mariadb&logoColor=white)
    ![postgresql](https://img.shields.io/badge/postgresql-4169E1.svg?&style=for-the-badge&logo=postgresql&logoColor=white)
    ![mongodb](https://img.shields.io/badge/mongodb-47A248.svg?&style=for-the-badge&logo=mongodb&logoColor=white)
 
-
-
- #### Markup
-  ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white) ![styled-components](https://img.shields.io/badge/styled%20components-DB7093.svg?&style=for-the-badge&logo=styled%20components&logoColor=white) ![TailWIND CSS](https://img.shields.io/badge/TailWIND%20CSS-06B6D4.svg?&style=for-the-badge&logo=TailWIND%20CSS&logoColor=white)
+  #### Data & DevOps
+   ![Python](https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white)
+   ![Jupyter](https://img.shields.io/badge/jupyter-F37626.svg?&style=for-the-badge&logo=jupyter&logoColor=white)
+   ![Numpy](https://img.shields.io/badge/numpy-013243.svg?&style=for-the-badge&logo=numpy&logoColor=white)
+   ![Pytorch](https://img.shields.io/badge/pytorch-EE4C2C.svg?&style=for-the-badge&logo=pytorch&logoColor=white)
 
   #### Frontend 
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white)
@@ -70,6 +69,10 @@
   ![React](https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=white)
   ![next.js](https://img.shields.io/badge/next.js-000000.svg?&style=for-the-badge&logo=next.js&logoColor=white)
 
+
+ #### Markup
+  ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white) ![styled-components](https://img.shields.io/badge/styled%20components-DB7093.svg?&style=for-the-badge&logo=styled%20components&logoColor=white) ![TailWIND CSS](https://img.shields.io/badge/TailWIND%20CSS-06B6D4.svg?&style=for-the-badge&logo=TailWIND%20CSS&logoColor=white)
 
 
   #### Mobile : Android
@@ -85,13 +88,13 @@
 
   ![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)  ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?&style=for-the-badge&logo=Android%20Studio&logoColor=white)
 
-
+----
  
 # :Contacts
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-000000?style=flat-square&logo=tistory&link=https://andamiro-3d-webappdev.tistory.com/)](https://andamiro-3d-webappdev.tistory.com/)
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=Andamiro)](https://velog.io/@Andamiro)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lee940706@gmail.com)](mailto:lee940706@gmail.com)
-[![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:ljs2894@naver.com)](mailto:ljs2894@naver.com)
+
  
                     
         
