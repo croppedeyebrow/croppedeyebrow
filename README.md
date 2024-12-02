@@ -13,10 +13,6 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcroppedeyebrow&count_bg=%2379C83D&title_bg=%23D7D6D6&icon=github.svg&icon_color=%23811ABE&title=CDC-GITHUB&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
- 
-  
-[홈페이지]
-<https://cdc-next-portfolio.pages.dev/>
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj={lee940706})](https://solved.ac/{lee940706})
 </br>
@@ -103,7 +99,9 @@
   ![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)  ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?&style=for-the-badge&logo=Android%20Studio&logoColor=white)
 
 ----
- 
+ [홈페이지]
+<https://cdc-next-portfolio.pages.dev/>
+
 # :Contacts
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-000000?style=flat-square&logo=tistory&link=https://andamiro-3d-webappdev.tistory.com/)](https://andamiro-3d-webappdev.tistory.com/)
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=Andamiro)](https://velog.io/@Andamiro)
