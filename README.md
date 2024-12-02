@@ -18,7 +18,8 @@
 [홈페이지]
 <https://cdc-next-portfolio.pages.dev/>
 
-
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj={lee940706})](https://solved.ac/{lee940706})
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lee940706)](https://solved.ac/lee940706/)
 
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle={lee940706}&theme=dark)
