@@ -46,9 +46,14 @@
   #### Backend 
    ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF.svg?&style=for-the-badge&logo=Kotlin&logoColor=white)
    ![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F.svg?&style=for-the-badge&logo=SpringBoot&logoColor=white)
+   </br>
    ![Node.js](https://img.shields.io/badge/NodeJS-5FA04E.svg?&style=for-the-badge&logo=NodeJS&logoColor=white)
    ![Express.js](https://img.shields.io/badge/express-000000.svg?&style=for-the-badge&logo=express&logoColor=white)
    ![Nest.js](https://img.shields.io/badge/NestJS-E0234E.svg?&style=for-the-badge&logo=NestJS&logoColor=white)
+   </br>
+   ![flask](https://img.shields.io/badge/flask-000000.svg?&style=for-the-badge&logo=flask&logoColor=white)
+   ![django](https://img.shields.io/badge/django-092E20.svg?&style=for-the-badge&logo=django&logoColor=white)
+
 
 
   #### DataBase
