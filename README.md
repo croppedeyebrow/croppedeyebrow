@@ -89,7 +89,7 @@
  
 # :Contacts
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-000000?style=flat-square&logo=tistory&link=https://andamiro-3d-webappdev.tistory.com/)](https://andamiro-3d-webappdev.tistory.com/)
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=andamiro)](https://velog.io/@andamiro)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=Andamiro)](https://velog.io/@Andamiro)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lee940706@gmail.com)](mailto:lee940706@gmail.com)
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:ljs2894@naver.com)](mailto:ljs2894@naver.com)
  
