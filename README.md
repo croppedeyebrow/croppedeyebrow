@@ -53,7 +53,7 @@
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white)
   ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?&style=for-the-badge&logo=TypeScript&logoColor=white)
   ![React](https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=white)
-  ![nextdotjs](https://img.shields.io/badge/nextdotjs-000000.svg?&style=for-the-badge&logo=nextdotjs&logoColor=white)
+  ![next.js](https://img.shields.io/badge/next.js-000000.svg?&style=for-the-badge&logo=next.js&logoColor=white)
 
 
 
@@ -61,7 +61,7 @@
    ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF.svg?&style=for-the-badge&logo=Kotlin&logoColor=white)
    ![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F.svg?&style=for-the-badge&logo=SpringBoot&logoColor=white)
    ![Node.js](https://img.shields.io/badge/NodeJS-5FA04E.svg?&style=for-the-badge&logo=NodeJS&logoColor=white)
-   ![Express](https://img.shields.io/badge/ExpressJS-000000.svg?&style=for-the-badge&logo=ExpressJS&logoColor=white)
+   ![Express.js](https://img.shields.io/badge/Express.js-000000.svg?&style=for-the-badge&logo=Express.js&logoColor=white)
    ![Nest.js](https://img.shields.io/badge/NestJS-E0234E.svg?&style=for-the-badge&logo=NestJS&logoColor=white)
 
 
