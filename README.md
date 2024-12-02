@@ -69,7 +69,7 @@
    </br>
    ![amazons3](https://img.shields.io/badge/amazons3-569A31.svg?&style=for-the-badge&logo=amazons3&logoColor=white)
    ![amazonroute53](https://img.shields.io/badge/amazonroute53-8C4FFF.svg?&style=for-the-badge&logo=amazonroute53&logoColor=white)
-   ![amazonroute53](https://img.shields.io/badge/amazonroute53-8C4FFF.svg?&style=for-the-badge&logo=amazonroute53&logoColor=white)
+
 
 
   #### Frontend 
