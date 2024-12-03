@@ -93,7 +93,6 @@
  </br>
 
   #### Mobile : Android
-  ![Android](https://img.shields.io/badge/Android-3DDC84.svg?&style=for-the-badge&logo=Android&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF.svg?&style=for-the-badge&logo=Kotlin&logoColor=white) 
   ![Expo](https://img.shields.io/badge/Expo-000020.svg?&style=for-the-badge&logo=Expo&logoColor=white) 
   ![ReactNative](https://img.shields.io/badge/ReactNative-61DAFB.svg?&style=for-the-badge&logo=ReactNative&logoColor=white)
   
@@ -107,6 +106,15 @@
 ![firebase](https://img.shields.io/badge/firebase-DD2C00.svg?&style=for-the-badge&logo=firebase&logoColor=white)
 ![supabase](https://img.shields.io/badge/supabase-3FCF8E.svg?&style=for-the-badge&logo=supabase&logoColor=white)
 ![Mariadb](https://img.shields.io/badge/mariadb-003545.svg?&style=for-the-badge&logo=mariadb&logoColor=white)
+ ![Android](https://img.shields.io/badge/Android-3DDC84.svg?&style=for-the-badge&logo=Android&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF.svg?&style=for-the-badge&logo=Kotlin&logoColor=white) 
+![apachekafka](https://img.shields.io/badge/apachekafka-231F20.svg?&style=for-the-badge&logo=apachekafka&logoColor=white)
+![apachespark](https://img.shields.io/badge/apachespark-E25A1C.svg?&style=for-the-badge&logo=apachespark&logoColor=white)
+![apachehadoop](https://img.shields.io/badge/apachehadoop-66CCFF.svg?&style=for-the-badge&logo=apachehadoop&logoColor=white)
+![apacheairflow](https://img.shields.io/badge/apacheairflow-017CEE.svg?&style=for-the-badge&logo=apacheairflow&logoColor=white)
+![apachecassandra](https://img.shields.io/badge/apachecassandra-1287B1.svg?&style=for-the-badge&logo=apachecassandra&logoColor=white)
+
+![elasticsearch](https://img.shields.io/badge/elasticsearch-005571.svg?&style=for-the-badge&logo=elasticsearch&logoColor=white)
+![redis](https://img.shields.io/badge/redis-FF4438.svg?&style=for-the-badge&logo=redis&logoColor=white)
 
 
  
