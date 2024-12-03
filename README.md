@@ -101,6 +101,22 @@
  </br>
  </br>
 
+### Program
+  ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-000000.svg?&style=for-the-badge&logo=Notion&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E.svg?&style=for-the-badge&logo=Figma&logoColor=white) ![Postman](https://img.shields.io/badge/postman-FF6C37.svg?&style=for-the-badge&logo=postman&logoColor=white)
+  ![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)  ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?&style=for-the-badge&logo=Android%20Studio&logoColor=white)
+
+----
+ [홈페이지]
+<https://cdc-next-portfolio.pages.dev/>
+
+# :Contacts
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-000000?style=flat-square&logo=tistory&link=https://andamiro-3d-webappdev.tistory.com/)](https://andamiro-3d-webappdev.tistory.com/)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=Andamiro)](https://velog.io/@Andamiro)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lee940706@gmail.com)](mailto:lee940706@gmail.com)
+
+
+
+----
 #### 언젠가..공부 하겠지?
 ![TailWIND CSS](https://img.shields.io/badge/TailWIND%20CSS-06B6D4.svg?&style=for-the-badge&logo=TailWIND%20CSS&logoColor=white)
 ![firebase](https://img.shields.io/badge/firebase-DD2C00.svg?&style=for-the-badge&logo=firebase&logoColor=white)
@@ -115,24 +131,6 @@
 
 ![elasticsearch](https://img.shields.io/badge/elasticsearch-005571.svg?&style=for-the-badge&logo=elasticsearch&logoColor=white)
 ![redis](https://img.shields.io/badge/redis-FF4438.svg?&style=for-the-badge&logo=redis&logoColor=white)
-
-
- 
-
-### Program
-  ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-000000.svg?&style=for-the-badge&logo=Notion&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E.svg?&style=for-the-badge&logo=Figma&logoColor=white) ![Postman](https://img.shields.io/badge/postman-FF6C37.svg?&style=for-the-badge&logo=postman&logoColor=white)
-  
-
-  ![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)  ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?&style=for-the-badge&logo=Android%20Studio&logoColor=white)
-
-----
- [홈페이지]
-<https://cdc-next-portfolio.pages.dev/>
-
-# :Contacts
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-000000?style=flat-square&logo=tistory&link=https://andamiro-3d-webappdev.tistory.com/)](https://andamiro-3d-webappdev.tistory.com/)
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=Andamiro)](https://velog.io/@Andamiro)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lee940706@gmail.com)](mailto:lee940706@gmail.com)
 
  
                     
