@@ -88,7 +88,7 @@
  #### Markup
   ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white) ![styled-components](https://img.shields.io/badge/styled%20components-DB7093.svg?&style=for-the-badge&logo=styled%20components&logoColor=white) 
-
+  ![TailWIND CSS](https://img.shields.io/badge/TailWIND%20CSS-06B6D4.svg?&style=for-the-badge&logo=TailWIND%20CSS&logoColor=white)
 
 
   #### Mobile : Android
@@ -120,7 +120,6 @@
 
 ----
 #### 언젠가..공부 하겠지?
-![TailWIND CSS](https://img.shields.io/badge/TailWIND%20CSS-06B6D4.svg?&style=for-the-badge&logo=TailWIND%20CSS&logoColor=white)
 ![firebase](https://img.shields.io/badge/firebase-DD2C00.svg?&style=for-the-badge&logo=firebase&logoColor=white)
 ![supabase](https://img.shields.io/badge/supabase-3FCF8E.svg?&style=for-the-badge&logo=supabase&logoColor=white)
 ![Mariadb](https://img.shields.io/badge/mariadb-003545.svg?&style=for-the-badge&logo=mariadb&logoColor=white)
