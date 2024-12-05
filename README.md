@@ -53,7 +53,7 @@
    <img src="https://img.shields.io/badge/java-%23ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
    ![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F.svg?&style=for-the-badge&logo=SpringBoot&logoColor=white)
 
- </br>
+
 
 
   #### DataBase
@@ -62,8 +62,7 @@
 
    ![postgresql](https://img.shields.io/badge/postgresql-4169E1.svg?&style=for-the-badge&logo=postgresql&logoColor=white)
    ![mongodb](https://img.shields.io/badge/mongodb-47A248.svg?&style=for-the-badge&logo=mongodb&logoColor=white)
- </br>
- 
+
 
  
   #### Data & DevOps 
@@ -76,7 +75,7 @@
    ![amazons3](https://img.shields.io/badge/amazons3-569A31.svg?&style=for-the-badge&logo=amazons3&logoColor=white)
    ![amazonroute53](https://img.shields.io/badge/amazonroute53-8C4FFF.svg?&style=for-the-badge&logo=amazonroute53&logoColor=white)
 
- </br>
+
 
 
   #### Frontend 
@@ -89,7 +88,7 @@
  #### Markup
   ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white) ![styled-components](https://img.shields.io/badge/styled%20components-DB7093.svg?&style=for-the-badge&logo=styled%20components&logoColor=white) 
- </br>
+
 
 
   #### Mobile : Android
@@ -98,7 +97,7 @@
   
 
 
- </br>
+
 
 
 ### Program
