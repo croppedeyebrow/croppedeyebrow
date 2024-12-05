@@ -23,7 +23,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lee940706)](https://solved.ac/lee940706/)
 
-<img src="http://mazandi.herokuapp.com/api?handle={handle}&theme=dark"/>
+<img src="http://mazandi.herokuapp.com/api?handle={lee940706}&theme=dark"/>
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
