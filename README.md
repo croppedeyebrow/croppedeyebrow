@@ -23,8 +23,8 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lee940706)](https://solved.ac/lee940706/)
 
-![mazandi profile](http://mazandi.herokuapp.com/api?handle={lee940706}&theme=dark)
-<img src="http://mazandi.herokuapp.com/api?handle={lee940706}&theme=dark"/>
+![mazandi profile](http://mazandi.herokuapp.com/api?handle={lee940706&theme=dark)
+
 
 
 
