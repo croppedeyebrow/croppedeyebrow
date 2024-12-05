@@ -17,11 +17,9 @@
 
 
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcroppedeyebrow&count_bg=%2379C83D&title_bg=%23D7D6D6&icon=github.svg&icon_color=%23811ABE&title=CDC-GITHUB&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcroppedeyebrow&count_bg=%2379C83D&title_bg=%23D7D6D6&icon=github.svg&icon_color=%23811ABE&title=CDC-GITHUB&edge_flat=false)](https://hits.seeyoufarm.com) [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj={lee940706})](https://solved.ac/{lee940706})
 
 
-
-[![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj={lee940706})](https://solved.ac/{lee940706})
 </br>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lee940706)](https://solved.ac/lee940706/)
 
