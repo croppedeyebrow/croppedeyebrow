@@ -6,10 +6,17 @@
 
 
 
+🙂 Introduce
+---- 
+🩻 3D 웹&앱 풀스택 개발자를 지향하는 안다미로[이재성]입니다. </br>
+🩻 기술로 문제를 해결하여서, 비즈니스의 성과 극대화에 보탬이 되어주고 싶은 신입 개발자입니다. </br>
+🩻 새로운 것을 학습하고 도전하는 것에 재미를 느끼고, 팀원들*조직원들과 함께 교류하고 성장하는 것을 희망합니다.  </br>
+🩻 데이터 기반 기술들과 3D를 위한 기술들에 관심이 많습니다. </br>
+  
 
 
 
-## 💻 DEV's log 💻
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcroppedeyebrow&count_bg=%2379C83D&title_bg=%23D7D6D6&icon=github.svg&icon_color=%23811ABE&title=CDC-GITHUB&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
