@@ -6,7 +6,7 @@
 
 
 
-🙂 Introduce
+#🩻 Introduce
 ---- 
 🩻 3D 웹&앱 풀스택 개발자를 지향하는 안다미로[이재성]입니다. </br>
 🩻 기술로 문제를 해결하여서, 비즈니스의 성과 극대화에 보탬이 되어주고 싶은 신입 개발자입니다. </br>
@@ -113,13 +113,16 @@
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?&style=for-the-badge&logo=Android%20Studio&logoColor=white)
 
 ----
- [홈페이지]
-<https://cdc-next-portfolio.pages.dev/>
+
 
 # :Contacts
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-000000?style=flat-square&logo=tistory&link=https://andamiro-3d-webappdev.tistory.com/)](https://andamiro-3d-webappdev.tistory.com/)
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=Andamiro)](https://velog.io/@Andamiro)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lee940706@gmail.com)](mailto:lee940706@gmail.com)
+
+
+ [홈페이지]
+<https://cdc-next-portfolio.pages.dev/>
 
 
 
