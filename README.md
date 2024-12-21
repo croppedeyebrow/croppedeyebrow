@@ -113,7 +113,8 @@
 
 
 
-![개발로고_작은버전](https://github.com/user-attachments/assets/06a6b2d9-f03d-4582-a884-5cd8aa05b149)
+![개발로고](https://github.com/user-attachments/assets/03d0fe11-07e5-4be4-ac94-9d3c0d10e286)
+
 
 
 
