@@ -88,7 +88,7 @@
   ![TailWIND CSS](https://img.shields.io/badge/TailWIND%20CSS-06B6D4.svg?&style=for-the-badge&logo=TailWIND%20CSS&logoColor=white)
 
 
-  #### Mobile : Android
+  #### Mobile 
   ![Flutter](https://img.shields.io/badge/flutter-02569B.svg?&style=for-the-badge&logo=flutter&logoColor=white)
   
 
@@ -101,7 +101,7 @@
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white) 
 ![intellijidea](https://img.shields.io/badge/intellijidea-000000.svg?&style=for-the-badge&logo=intellijidea&logoColor=white) 
 ![VSCode](https://img.shields.io/badge/vscode-2C2C32.svg?&style=for-the-badge&logo=vscode&logoColor=white) 
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?&style=for-the-badge&logo=Android%20Studio&logoColor=white)
+
 
 ----
 
