@@ -43,8 +43,7 @@
 
   #### Backend 
  
-   ![Node.js](https://img.shields.io/badge/NodeJS-5FA04E.svg?&style=for-the-badge&logo=NodeJS&logoColor=white)
-   ![Express.js](https://img.shields.io/badge/express-000000.svg?&style=for-the-badge&logo=express&logoColor=white)
+
    ![Nest.js](https://img.shields.io/badge/NestJS-E0234E.svg?&style=for-the-badge&logo=NestJS&logoColor=white)
    ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?&style=for-the-badge&logo=TypeScript&logoColor=white)
    </br>
