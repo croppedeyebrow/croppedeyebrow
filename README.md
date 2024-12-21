@@ -112,8 +112,8 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lee940706@gmail.com)](mailto:lee940706@gmail.com)
 
 
- [홈페이지]
-<https://cdc-next-portfolio.pages.dev/>
+
+![개발로고_작은버전](https://github.com/user-attachments/assets/06a6b2d9-f03d-4582-a884-5cd8aa05b149)
 
 
 
