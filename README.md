@@ -50,9 +50,7 @@
    ![flask](https://img.shields.io/badge/flask-000000.svg?&style=for-the-badge&logo=flask&logoColor=white)
    ![django](https://img.shields.io/badge/django-092E20.svg?&style=for-the-badge&logo=django&logoColor=white)
    </br>
-   ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF.svg?&style=for-the-badge&logo=Kotlin&logoColor=white)
-   ![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F.svg?&style=for-the-badge&logo=SpringBoot&logoColor=white)
-![java](https://img.shields.io/badge/Java-F7DF1E?style=for-the-badge&logo=Java&logoColor=white)
+
 
 
 
