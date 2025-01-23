@@ -52,6 +52,7 @@
    ![Nest.js](https://img.shields.io/badge/NestJS-E0234E.svg?&style=for-the-badge&logo=NestJS&logoColor=white)
    ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?&style=for-the-badge&logo=TypeScript&logoColor=white)
    </br>
+   ![Python](https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white)
    ![flask](https://img.shields.io/badge/flask-000000.svg?&style=for-the-badge&logo=flask&logoColor=white)
    ![django](https://img.shields.io/badge/django-092E20.svg?&style=for-the-badge&logo=django&logoColor=white)
    </br>
@@ -69,6 +70,7 @@
    ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
    ![Supabase](https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=white)
    ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white)
+   ![ElasticSearch](https://img.shields.io/badge/Elastic_Search-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
 
  
   #### Data & DevOps 
