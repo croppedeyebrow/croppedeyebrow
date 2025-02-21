@@ -12,16 +12,16 @@
 🩻 새로운 것을 학습하고 도전하는 것에 재미를 느끼고, 팀원들*조직원들과 함께 교류하고 성장하는 것을 희망합니다.  </br>
 🩻 데이터 기반 기술들과 3D를 위한 기술들에 관심이 많습니다. </br>
   
-◇ 관심있는 데이터( 도메인 )
+◇ 관심있는 데이터( 도메인 ) </br>
 
- : 은행 & 금융 & 퀸트 / 헬스-케어, 바이오-인포메틱스, 의료 및 제약 데이터/ 공정 데이터
-💻WEB3
-📱 APP: [Flutter & Kotlin] + [FireBase, SupaBase]
-🗄️ DB: [MySQL & PostgreSQL & ElasticSearch]
-💻 WEB 3.0: [R3F & Solidity]
+ : 은행 & 금융 & 퀸트 / 헬스-케어, 바이오-인포메틱스, 의료 및 제약 데이터/ 공정 데이터 </br>
+💻WEB3 </br>
+📱 APP: [Flutter & Kotlin] + [FireBase, SupaBase] </br>
+🗄️ DB: [MySQL & PostgreSQL & ElasticSearch] </br>
+💻 WEB 3.0: [R3F & Solidity] </br>
 
-📊Data.
-📈 DA : [ Pandas, Numpy ,Seaborn,MatPlotlib, Excell,R ]
+📊Data. </br>
+📈 DA : [ Pandas, Numpy ,Seaborn,MatPlotlib, Excell,R ] </br>
 
 
 
