@@ -15,12 +15,12 @@
 
  : 은행 & 금융 & 퀸트 / 헬스-케어, 바이오-인포메틱스, 의료 및 제약 데이터/ 공정 데이터 </br>
 💻WEB3 </br>
-📱 APP: [Flutter & Kotlin] + [FireBase, SupaBase] </br>
-🗄️ DB: [MySQL & PostgreSQL & ElasticSearch] </br>
+📱 APP: [Flutter & ReactNative] + [FireBase, SupaBase] </br>
+🗄️ DB: [MySQL  & ElasticSearch] </br>
 💻 WEB 3.0: [R3F & Solidity] </br>
 
 📊Data. </br>
-📈 DA : [ Pandas, Numpy ,Seaborn,MatPlotlib, Excell,R ] </br>
+📈 DA : [ Pandas, Numpy, Excell] </br>
 
 
 
