@@ -7,21 +7,27 @@
 
 
 # 🩻 Introduce
-🩻 APP & Web3.0 & DataEngineering 기술로 비즈니스 방향성과 성과를 혁신하고 싶은 안다미로[이재성]입니다. </br>
+🩻 APP & Web3.0 & DataScience 기술로 비즈니스 성과를 혁신하고 더 깊은 문제의 근본을 해결하고 싶습니다.</br>
 🩻 새로운 것을 학습하고 도전하는 것에 재미를 느끼고, 팀원들*조직원들과 함께 교류하고 성장하는 것을 희망합니다.  </br>
-🩻 App을 이용한 편의성 증대, Web 3.0 환경 , 데이터 시각화, 데이터 모델링에 관심이 많습니다. </br>
+🩻 App을 이용한 편의성 증대, Web 3.0 환경 , 데이터 기반의 비즈니스 구축 및 기술혁신에 관심이 많습니다. </br>
+🩻 CX(고객-중심)/PX(제품-중심)/DX(데이터-중심) 으로 생각하고자 노력해요. </br>
   
 ◇ 관심있는 데이터( 도메인 ) </br>
 
- : 은행 & 금융 & 퀸트 / 헬스-케어, 바이오-인포메틱스, 의료 및 제약 데이터/ 공정 데이터 </br>
-💻WEB3 </br>
+ : 금융 & 투자 & 재무관리 / 데이터 사이언스 및 활용 / 공정 데이터 및 스마트 팩토리 / 운행 & 물류 </br>
+ : 헬스-케어 / 바이오-인포메틱스 / 의료 및 제약 데이터.</br>
+
+ </br>
+
+ 
+💻 WEB : [ React.js & Next.js ] + [Java/Kotlin + SpringBoot]   </br>
 📱 APP: [Flutter & ReactNative] + [FireBase, SupaBase] </br>
 🗄️ DB: [MySQL  & ElasticSearch] </br>
-💻 WEB 3.0: [R3F & Solidity] </br>
+💻 BlockChain & 3D: [R3F & Solidity] </br>
 
 📊Data. </br>
-📈 DA : [ Pandas, Numpy, Excell] </br>
-
+📈 Da : [ Pandas, Numpy, Excell] </br>
+📈 Ds : [ Pytorch, TensorFlow] </br>
 
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcroppedeyebrow&count_bg=%2379C83D&title_bg=%23D7D6D6&icon=github.svg&icon_color=%23811ABE&title=ANDAMIRO-GITHUB&edge_flat=false)](https://hits.seeyoufarm.com) 
@@ -49,23 +55,30 @@
 # 💪Dev's Language & Tools
 
 
-  #### Android & CrossPlatform
+  #### APP
   ![Flutter](https://img.shields.io/badge/flutter-02569B.svg?&style=for-the-badge&logo=flutter&logoColor=white)
   ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-  ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
   ![ReactNative](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
   #### Backend 
  
   ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
   ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-    ![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=openjdk&logoColor=white)
+  ![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=openjdk&logoColor=white)
   
 
 
    </br>
    
 
+
+  #### Frontend 
+  ![React](https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=white)
+  ![Next.js](https://img.shields.io/badge/next.js-000000.svg?&style=for-the-badge&logo=next.js&logoColor=white)
+     ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?&style=for-the-badge&logo=TypeScript&logoColor=white)
+  ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white) ![styled-components](https://img.shields.io/badge/styled%20components-DB7093.svg?&style=for-the-badge&logo=styled%20components&logoColor=white) 
+  ![TailWIND CSS](https://img.shields.io/badge/TailWIND%20CSS-06B6D4.svg?&style=for-the-badge&logo=TailWIND%20CSS&logoColor=white)
 
 
 
@@ -91,25 +104,6 @@
    ![Numpy](https://img.shields.io/badge/numpy-013243.svg?&style=for-the-badge&logo=numpy&logoColor=white)
    ![Pandas](https://img.shields.io/badge/pandas-150458.svg?&style=for-the-badge&logo=pandas&logoColor=white)
    </br>
-   ![amazons3](https://img.shields.io/badge/amazons3-569A31.svg?&style=for-the-badge&logo=amazons3&logoColor=white)
-   ![amazonroute53](https://img.shields.io/badge/amazonroute53-8C4FFF.svg?&style=for-the-badge&logo=amazonroute53&logoColor=white)
-
-
-
-
-  #### Frontend 
-  ![React](https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=white)
-  ![Next.js](https://img.shields.io/badge/next.js-000000.svg?&style=for-the-badge&logo=next.js&logoColor=white)
-     ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?&style=for-the-badge&logo=TypeScript&logoColor=white)
-  ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white) ![styled-components](https://img.shields.io/badge/styled%20components-DB7093.svg?&style=for-the-badge&logo=styled%20components&logoColor=white) 
-  ![TailWIND CSS](https://img.shields.io/badge/TailWIND%20CSS-06B6D4.svg?&style=for-the-badge&logo=TailWIND%20CSS&logoColor=white)
-
-
-
-  
-
-
 
 
 
