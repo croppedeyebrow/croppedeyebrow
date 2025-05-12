@@ -7,27 +7,18 @@
 
 
 # 🩻 Introduce
-🩻 APP & Web3.0 & DataScience 기술로 비즈니스 성과를 혁신하고 더 깊은 문제의 근본을 해결하고 싶습니다.</br>
+🩻 WEB & APP 기술로 비즈니스 성과를 혁신하고 더 깊은 문제의 근본을 해결하고 싶습니다.</br>
 🩻 새로운 것을 학습하고 도전하는 것에 재미를 느끼고, 팀원들*조직원들과 함께 교류하고 성장하는 것을 희망합니다.  </br>
-🩻 App을 이용한 편의성 증대, Web 3.0 환경 , 데이터 기반의 비즈니스 구축 및 기술혁신에 관심이 많습니다. </br>
+🩻 WEB & App을 이용한 편의성 증대,  데이터 기반의 비즈니스 구축 및 기술혁신에 관심이 많습니다. </br>
 🩻 CX(고객-중심)/PX(제품-중심)/DX(데이터-중심) 으로 생각하고자 노력해요. </br>
   
-◇ 관심있는 데이터( 도메인 ) </br>
 
- : 금융 & 투자 & 재무관리 / 데이터 사이언스 및 활용 / 공정 데이터 및 스마트 팩토리 / 운행 & 물류 </br>
- : 헬스-케어 / 바이오-인포메틱스 / 의료 및 제약 데이터.</br>
 
- </br>
 
  
-💻 WEB : [ React.js & Next.js ] + [Java/Kotlin + SpringBoot]   </br>
-📱 APP: [Flutter & ReactNative] + [FireBase, SupaBase] </br>
-🗄️ DB: [MySQL  & ElasticSearch] </br>
-💻 BlockChain & 3D: [R3F & Solidity] </br>
-
-📊Data. </br>
-📈 Da : [ Pandas, Numpy, Excell] </br>
-📈 Ds : [ Pytorch, TensorFlow] </br>
+💻 WEB & App Front : [ React.js  ] + [React_Native]   </br>
+📱 WEB & APP Back : [Java/Kotlin + SpringBoot]  + [ FastAPI ]  +  [SupaBase] </br>
+🗄️ DB: [MySQL] </br>
 
 
 --------
@@ -55,32 +46,21 @@
 # 💪Dev's Language & Tools
 
 
-  #### APP
-  ![Flutter](https://img.shields.io/badge/flutter-02569B.svg?&style=for-the-badge&logo=flutter&logoColor=white)
-  ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+  #### WEB & APP Front.
   ![ReactNative](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+  ![React](https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=white)
 
-  #### Backend 
+  #### WEB & APP Backend 
  
   ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
   ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
   ![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=openjdk&logoColor=white)
-  
+  ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 
    </br>
    
-
-
-  #### Frontend 
-  ![React](https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=white)
-  ![Next.js](https://img.shields.io/badge/next.js-000000.svg?&style=for-the-badge&logo=next.js&logoColor=white)
-     ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?&style=for-the-badge&logo=TypeScript&logoColor=white)
-  ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white) ![styled-components](https://img.shields.io/badge/styled%20components-DB7093.svg?&style=for-the-badge&logo=styled%20components&logoColor=white) 
-  ![TailWIND CSS](https://img.shields.io/badge/TailWIND%20CSS-06B6D4.svg?&style=for-the-badge&logo=TailWIND%20CSS&logoColor=white)
-
-
 
 
   #### DataBase
@@ -91,19 +71,6 @@
    </br>
 
 
-
-   
-
-
-
- 
-  #### Data & DevOps 
-
-   ![Python](https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white)
-   ![JupyterNotebook](https://img.shields.io/badge/jupyter-F37626.svg?&style=for-the-badge&logo=jupyter&logoColor=white)
-   ![Numpy](https://img.shields.io/badge/numpy-013243.svg?&style=for-the-badge&logo=numpy&logoColor=white)
-   ![Pandas](https://img.shields.io/badge/pandas-150458.svg?&style=for-the-badge&logo=pandas&logoColor=white)
-   </br>
 
 
 
