@@ -14,10 +14,8 @@
 과정을 기록하고 있습니다. </br>
 🩻 IT 기술과 데이터를 통해 세상의 문제를 해결하고, 비즈니스를 만들어내고 싶습니다. </br>
   
+# Language & framework.
 
-
-
- 
 💻 WEB & App Front : [ React.js & Next.js  ] + [React_Native & Flutter]   </br>
 📱 WEB & APP Back : [Java/Kotlin + SpringBoot]  + [ FastAPI & Django ]  +  [SupaBase] </br>
 🗄️ DB: [MySQL] </br>
