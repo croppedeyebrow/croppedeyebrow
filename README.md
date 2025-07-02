@@ -9,18 +9,23 @@
 # 🩻 Introduce
 🩻 WEB & APP 기술로 비즈니스 성과를 혁신하고 더 깊은 문제의 근본을 해결하고 싶습니다.</br>
 🩻 새로운 것을 학습하고 도전하는 것에 재미를 느끼고, 팀원들*조직원들과 함께 교류하고 성장하는 것을 희망합니다.  </br>
-🩻 WEB & App을 이용한 편의성 증대,  데이터 기반의 비즈니스 구축 및 기술혁신에 관심이 많습니다. </br>
-🩻 CX(고객-중심)/PX(제품-중심)/DX(데이터-중심) 으로 생각하고자 노력해요. </br>
+🩻 APP(Aos & Ios & Cross ) & D.S & Vision & Business. </br>
+🩻 앱 개발 분야 & 데이터 분야 & 컴퓨터 비전 & 비즈니스 에 흥미를 가지고 공부하면서
+과정을 기록하고 있습니다. </br>
+🩻 IT 기술과 데이터를 통해 세상의 문제를 해결하고, 비즈니스를 만들어내고 싶습니다. </br>
   
 
 
 
  
-💻 WEB & App Front : [ React.js  ] + [React_Native]   </br>
-📱 WEB & APP Back : [Java/Kotlin + SpringBoot]  + [ FastAPI ]  +  [SupaBase] </br>
+💻 WEB & App Front : [ React.js & Next.js  ] + [React_Native & Flutter]   </br>
+📱 WEB & APP Back : [Java/Kotlin + SpringBoot]  + [ FastAPI & Django ]  +  [SupaBase] </br>
 🗄️ DB: [MySQL] </br>
 
-
+📊Data. </br>
+📈 Business : [ Excell, Account ] </br>
+📈 DS : [ Pandas, Numpy ,Seaborn, scikit-learn ] </br>
+📈 AI/ML&DL : [ Pytorch, TensorFlow, OpenCV] </br>
 --------
 
 
