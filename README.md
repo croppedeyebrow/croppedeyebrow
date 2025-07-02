@@ -22,7 +22,7 @@
 📱 WEB & APP Back : [Java/Kotlin + SpringBoot]  + [ FastAPI & Django ]  +  [SupaBase] </br>
 🗄️ DB: [MySQL] </br>
 
-📊Data. </br>
+📊 Data. </br>
 📈 Business : [ Excell, Account ] </br>
 📈 DS : [ Pandas, Numpy ,Seaborn, scikit-learn ] </br>
 📈 AI/ML&DL : [ Pytorch, TensorFlow, OpenCV] </br>
