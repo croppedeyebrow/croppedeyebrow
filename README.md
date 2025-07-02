@@ -16,9 +16,12 @@
   
 # Language & framework.
 
-💻 WEB & App Front : [ React.js & Next.js  ] + [React_Native & Flutter]   </br>
-📱 WEB & APP Back : [Java/Kotlin + SpringBoot]  + [ FastAPI & Django ]  +  [SupaBase] </br>
-🗄️ DB: [MySQL] </br>
+📱 UX : Figma </br>
+📱 Web: [React.js & Next.js ]  </br> 
+📱 APP: [RN & Flutter & Kotlin]  </br>
+
+🗄️ BackEnd :[Kotlin & Java + SpringBoot] + [FastAPI/Django] + [FireBase, SupaBase]  </br>
+🗄️ DB: [MySQL & PostgreSQL & ElasticSearch]  </br>
 
 📊 Data. </br>
 📈 Business : [ Excell, Account ] </br>
