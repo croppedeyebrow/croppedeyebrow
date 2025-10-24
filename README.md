@@ -38,7 +38,7 @@
 | **인터렉티브 웹** |  **Three.js/R3F**  |
 | **데이터 엔지니어링** | **Pyspark/Spark** , **Kafka**, **K8S**,**Cloud**, **Hadoop**, **Airflow** |
 | **데이터 사이언스&ML** | **Pytorch**, **Pandas/Numpy**, **TensorFlow**, **Scikit-learn** |
-
+| **블록 체인** | **ethereum**, **Web3.js**, **solidity**, **tether**
 ---
 
 ## 📈 Next Step: 백엔드 기반 AI/ML 엔지니어로의 로드맵
@@ -81,15 +81,21 @@
 
 # 💪Dev's Language & Tools
 
-
-
- 
+  
+  ![Nodejs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+  ![Expressjs](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+  ![Nestjs](https://img.shields.io/badge/Nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
+  ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
   ![React](https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=white)
+  ![Nextjs](https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=for-the-badge)
+  ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
   ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-  ![Mysql](https://img.shields.io/badge/mysql-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white)
-  
+  ![Mysql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+  ![PostgreSql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
   ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
   ![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=openjdk&logoColor=white)
 
