@@ -122,10 +122,11 @@
 
 
 
-![개발로고](https://github.com/user-attachments/assets/03d0fe11-07e5-4be4-ac94-9d3c0d10e286)
 
 
 
+
+<img width="757" height="603" alt="데이터로고" src="https://github.com/user-attachments/assets/d389b803-6df7-4105-8f57-4bbd7a7a6a63" />
 
 
 
