@@ -27,4 +27,4 @@ API 설계, 데이터 수집·정제, 업무 자동화 프로젝트를 진행했
 ## Contact
 
 - Email: lee940706@gmail.com
-- Blog: https://data-forge.tistory.com/
+- Blog: https://velog.io/@datagrizzly/posts
